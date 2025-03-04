@@ -2,4 +2,4 @@
 * I’m learning Git!
 * Online edit!
 * Testing Git Diff!
-* Staging Diff
+* Staging mistake!
